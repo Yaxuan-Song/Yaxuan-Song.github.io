@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yaxuan Song's Website"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "PhD student at Zhejiang University, College of computer science and technology, majored in Design Science."
 repository               : "Yaxuan-Song/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yaxuan Song"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/c4e4148dfea8f2da3ddd25ef47f39f66.jpg"
   bio              : "Zhejiang College"
   location         : "Hangzhou, China"
   employer         :

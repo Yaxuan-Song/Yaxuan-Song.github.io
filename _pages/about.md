@@ -28,14 +28,19 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/TRIZGPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/TRIZGPT——website.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TRIZ-GPT: An LLM-Augmented Method For Problem-Solving](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2024/88407/V006T06A010/1208956)
 
 Liuqing Chen, **Yaxuan Song**, Shixian Ding, Lingyun Sun, Peter Childs, Haoyu Zuo
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/TRIZGPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[TRIZ-GPT: An LLM-Augmented Method For Problem-Solving](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2024/88407/V006T06A010/1208956)
+
+Liuqing Chen, **Yaxuan Song**, Shixian Ding, Lingyun Sun, Peter Childs, Haoyu Zuo
 
 # 🎖 Honors and Awards
 - *2020.12* National Scholarship, Ministry of Education of China. 

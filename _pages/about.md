@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at the Department of Computer Science and Technology, Zhejiang University, advised by Professor Liuqin Chen (陈柳青). My research interests include human-AI collaboration, design methodology, and generative AI in creative processes.
+I am currently a PhD student at the Department of Computer Science and Technology, Zhejiang University, advised by Professor [Liuqin Chen (陈柳青)](https://person.zju.edu.cn/chenlq/). My research interests include human-AI collaboration, design methodology, and generative AI in creative processes.
 
 Beyond academia, I enjoy staying active through sports, including gym workouts and yoga, as well as exploring nature, such as hiking.
 

@@ -57,7 +57,7 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge">International Journal of Design Creativity and Innovation</div>
-    <img src='images/E-C.png' alt="sym" style="max-width: 100%; height: auto;">
+    <img src='images/E-C_2.png' alt="sym" style="max-width: 100%; height: auto;">
   </div>
   <div class='paper-box-text'>
     <a href="https://www.tandfonline.com/doi/full/10.1080/21650349.2024.2319772">

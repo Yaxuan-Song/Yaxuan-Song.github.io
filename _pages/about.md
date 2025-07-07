@@ -22,6 +22,8 @@ I am currently a PhD student at the Department of Computer Science and Technolog
 Beyond academia, I enjoy staying active through sports, including gym workouts and yoga, as well as exploring nature, such as hiking.
 
 # 🔥 News 
+- *2025.07*: &nbsp;🎉🎉 Our research paper (SCENIC: A Location-based System to Foster Cognitive Development in Children During Car Rides) is accepted by UIST-25.
+- *2025.05*: &nbsp;🎉🎉 Our research paper (Understanding Design Fixation in Generative Artificial Intelligence) is accepted by IDETC-25.
 - *2025.01*: &nbsp;🎉🎉 Our research paper (How Generative AI supports human in conceptual design) is accepted by Design Science.
 - *2024.05*: &nbsp;🎉🎉 Our research paper (TRIZ-GPT: An LLM-Augmented Method For Problem-Solving) is accepted by IDETC-24.
 - *2024.03*: &nbsp;🎉🎉 Our research paper (Development of an exploratory creativity assessment scale) is accepted by International Journal of Design Creativity and Innovation.

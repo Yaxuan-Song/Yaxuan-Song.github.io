@@ -32,6 +32,19 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <div class="badge">IDETC 2025</div>
+    <img src='images/TRIZ——website.png' alt="sym" style="max-width: 100%; height: auto;">
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2024/88407/V006T06A010/1208956">
+      TRIZ-GPT: An LLM-Augmented Method For Problem-Solving
+    </a>
+    <p>Liuqing Chen, <strong>Yaxuan Song</strong>, Shixian Ding, Lingyun Sun, Peter Childs, Haoyu Zuo</p>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <div class="badge">IDETC 2024</div>
     <img src='images/TRIZ——website.png' alt="sym" style="max-width: 100%; height: auto;">
   </div>

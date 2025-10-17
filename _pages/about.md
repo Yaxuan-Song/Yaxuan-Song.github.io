@@ -33,7 +33,7 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge">UIST 2025</div>
-    <img src='Yaxuan-Song/Yaxuan-Song.github.io/images/fig2_POI_new.png' alt="sym" style="max-width: 100%; height: auto;">
+    <img src='images/fig2_POI_new.png' alt="sym" style="max-width: 100%; height: auto;">
   </div>
   <div class='paper-box-text'>
     <a href="https://dl.acm.org/doi/full/10.1145/3746059.3747639">
@@ -46,7 +46,7 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge">IDETC 2025</div>
-    <img src='Yaxuan-Song/Yaxuan-Song.github.io/images/fig_conceptualization.png' alt="sym" style="max-width: 100%; height: auto;">
+    <img src='images/fig_conceptualization.png' alt="sym" style="max-width: 100%; height: auto;">
   </div>
   <div class='paper-box-text'>
     <a href="https://arxiv.org/abs/2502.05870">

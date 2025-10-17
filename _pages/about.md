@@ -32,14 +32,27 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IDETC 2025</div>
-    <img src='images/TRIZ——website.png' alt="sym" style="max-width: 100%; height: auto;">
+    <div class="badge">UIST 2025</div>
+    <img src='Yaxuan-Song/Yaxuan-Song.github.io/images/fig2_POI_new.png' alt="sym" style="max-width: 100%; height: auto;">
   </div>
   <div class='paper-box-text'>
-    <a href="https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2024/88407/V006T06A010/1208956">
-      TRIZ-GPT: An LLM-Augmented Method For Problem-Solving
+    <a href="https://dl.acm.org/doi/full/10.1145/3746059.3747639">
+      SCENIC: A Location-based System to Foster Cognitive Development in Children During Car Rides
     </a>
-    <p>Liuqing Chen, <strong>Yaxuan Song</strong>, Shixian Ding, Lingyun Sun, Peter Childs, Haoyu Zuo</p>
+    <p>Liuqing Chen, <strong>Yaxuan Song<strong>, Ke Lyu, Shuhong Xiao, Yilang Shen, Lingyun Sun</p>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IDETC 2025</div>
+    <img src='Yaxuan-Song/Yaxuan-Song.github.io/images/fig_conceptualization.png' alt="sym" style="max-width: 100%; height: auto;">
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://arxiv.org/abs/2502.05870">
+      Understanding Design Fixation in Generative AI
+    </a>
+    <p><strong>Yaxuan Song<strong>, Chunyuan Zheng, Qianzhi Jing, Preben Hansen, Lingyun Sun, Liiuqing Chen</p>
   </div>
 </div>
 

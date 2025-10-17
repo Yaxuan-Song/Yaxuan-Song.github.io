@@ -39,7 +39,7 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
     <a href="https://dl.acm.org/doi/full/10.1145/3746059.3747639">
       SCENIC: A Location-based System to Foster Cognitive Development in Children During Car Rides
     </a>
-    <p>Liuqing Chen, <strong>Yaxuan Song<strong>, Ke Lyu, Shuhong Xiao, Yilang Shen, Lingyun Sun</p>
+    <p>Liuqing Chen, </strong>Yaxuan Song<strong>, Ke Lyu, Shuhong Xiao, Yilang Shen, Lingyun Sun</p>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
     <a href="https://arxiv.org/abs/2502.05870">
       Understanding Design Fixation in Generative AI
     </a>
-    <p><strong>Yaxuan Song<strong>, Chunyuan Zheng, Qianzhi Jing, Preben Hansen, Lingyun Sun, Liiuqing Chen</p>
+    <p><strong>Yaxuan Song</strong>, Chunyuan Zheng, Qianzhi Jing, Preben Hansen, Lingyun Sun, Liiuqing Chen</p>
   </div>
 </div>
 

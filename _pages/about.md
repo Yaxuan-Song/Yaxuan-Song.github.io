@@ -49,7 +49,7 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
     <img src='images/fig_conceptualization.png' alt="sym" style="max-width: 100%; height: auto;">
   </div>
   <div class='paper-box-text'>
-    <a href="https://arxiv.org/abs/2502.05870">
+    <a href="https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2025/89244/1225946">
       Understanding Design Fixation in Generative AI
     </a>
     <p><strong>Yaxuan Song</strong>, Chunyuan Zheng, Qianzhi Jing, Preben Hansen, Lingyun Sun, Liiuqing Chen</p>
@@ -75,7 +75,7 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
     <img src='images/Design_Science.png' alt="sym" style="max-width: 100%; height: auto;">
   </div>
   <div class='paper-box-text'>
-    <a href="https://arxiv.org/abs/2502.00283">
+    <a href="https://www.cambridge.org/core/journals/design-science/article/how-generative-ai-supports-human-in-conceptual-design/6B60B59DF0CBE764A94E484DD835F73F">
       How Generative AI supports human in conceptual design
     </a>
     <p>Liuqing Chen, <strong>Yaxuan Song</strong>, Jia Guo, Lingyun Sun, Peter Childs, Yuan Yin</p>

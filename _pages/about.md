@@ -40,6 +40,12 @@ Beyond academia, I enjoy staying active through sports, including gym workouts a
       SCENIC: A Location-based System to Foster Cognitive Development in Children During Car Rides
     </a>
     <p>Liuqing Chen, <strong>Yaxuan Song</strong>, Ke Lyu, Shuhong Xiao, Yilang Shen, Lingyun Sun</p>
+      <a href="https://youtu.be/P8W7arze_aU?t=679"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color:#e62117; font-weight:600;">
+    ▶ YouTube Video
+    </a>
   </div>
 </div>
 

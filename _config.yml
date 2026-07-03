@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yaxuan Song's Website"
-description              : "PhD student at Zhejiang University, College of Computer Science and Technology, specializing in Design Science, with a research focus on human-AI collaboration, design methodology, and generative AI in creative processes."
+title                    : "Yaxuan Song (宋亚轩)"
+description              : "PhD candidate at Zhejiang University, College of Artificial Intelligence. Visiting scholar at Imperial College London (Dyson School of Design Engineering). Researching Human-AI Cognitive Interaction — how AI reshapes human cognition in socially complex and high-stakes contexts."
 repository               : "Yaxuan-Song/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 

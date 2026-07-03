@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at the Department of Computer Science and Technology, Zhejiang University, advised by Professor [Liuqin Chen (陈柳青)](https://person.zju.edu.cn/chenlq/). My research interests include human-AI collaboration, design methodology, and generative AI in creative processes.
+I am currently a PhD student at the Department of Computer Science and Technology, Zhejiang University, advised by Professor [Liuqin Chen (陈柳青)](https://person.zju.edu.cn/chenlq/). 
 
-Beyond academia, I enjoy staying active through sports, including gym workouts and yoga, as well as exploring nature, such as hiking.
+My research lies at the intersection of **Human-Computer Interaction** and **AI-Mediated Communication**. I study how AI reshapes human cognition in socially complex, high-stakes contexts — focusing on the boundary between cognitive scaffolding and cognitive replacement. My current work investigates how interactive systems can externalize users' implicit social reasoning (rather than automating it away), preserve user agency through parameterized control, and learn from users' natural editing behaviors without requiring explicit input.
 
 # 🔥 News 
+- *2025.12*: &nbsp; Started visiting scholar position at **Imperial College London**.
 - *2025.07*: &nbsp;🎉🎉 Our research paper (SCENIC: A Location-based System to Foster Cognitive Development in Children During Car Rides) is accepted by UIST-25.
 - *2025.05*: &nbsp;🎉🎉 Our research paper (Understanding Design Fixation in Generative Artificial Intelligence) is accepted by IDETC-25.
 - *2025.01*: &nbsp;🎉🎉 Our research paper (How Generative AI supports human in conceptual design) is accepted by Design Science.

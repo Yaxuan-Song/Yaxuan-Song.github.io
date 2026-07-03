@@ -59,7 +59,7 @@ My research lies at the intersection of **Human-Computer Interaction** and **AI-
     <a href="https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2025/89244/1225946">
       Understanding Design Fixation in Generative AI
     </a>
-    <p><strong>Yaxuan Song</strong>, Chunyuan Zheng, Qianzhi Jing, Preben Hansen, Lingyun Sun, Liiuqing Chen</p>
+    <p><strong>Yaxuan Song</strong>, Chunyuan Zheng, Qianzhi Jing, Preben Hansen, Lingyun Sun, Liuqing Chen</p>
   </div>
 </div>
 
@@ -103,6 +103,11 @@ My research lies at the intersection of **Human-Computer Interaction** and **AI-
 </div>
 
 # 🎖 Honors and Awards
-- *2020.12* National Scholarship, Ministry of Education of China.
-- *2024.10* Higgs University Student Extracurricular Innovation Activities Scholarship (Third Prize).
+- 2026.01 Mogujie Scholarship (蘑菇街时尚设计基金学生奖学金), Zhejiang University
+- 2024.10 Higgs University Student Extracurricular Innovation Activities Scholarship
+- 2020.12 National Scholarship, Ministry of Education of China
+
+# 📖 Education & Experience
+- 2025.12 – 2026.12, Visiting Scholar, Dyson School of Design Engineering, Imperial College London
+- 2023.09 – present, PhD Candidate, College of Artificial Intelligence, Zhejiang University
 

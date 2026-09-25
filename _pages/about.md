@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at the Department of Computer Science and Technology, Zhejiang University, advised by Professor [Liuqin Chen (陈柳青)](https://person.zju.edu.cn/chenlq/). 
+I am currently a PhD student at the College of Artificial Intelligence, Zhejiang University, advised by Professor [Liuqin Chen (陈柳青)](https://person.zju.edu.cn/chenlq/). 
 
 My research lies at the intersection of **Human-Computer Interaction** and **AI-Mediated Communication**. I study how AI reshapes human cognition in socially complex, high-stakes contexts — focusing on the boundary between cognitive scaffolding and cognitive replacement. My current work investigates how interactive systems can externalize users' implicit social reasoning (rather than automating it away), preserve user agency through parameterized control, and learn from users' natural editing behaviors without requiring explicit input.
 

@@ -23,8 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yaxuan Song"
   avatar           : "images/jianding.png"
-  bio              : "Zhejiang College"
-  location         : "Hangzhou, China"
+  bio              :  "PhD student, Zhejiang University · Visiting PhD student, Imperial College London"
+  location         : "London, UK"
+  location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=utFPPXYAAAAJ"

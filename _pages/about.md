@@ -112,6 +112,12 @@ My research lies at the intersection of **Human-Computer Interaction** and **AI-
 - L. Chen, S. Xiao, Y. Chen, **Y. Song**, R. Wu, and L. Sun. [ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6–12](https://dl.acm.org/doi/full/10.1145/3613904.3642229). *ACM CHI*, 2024.
 - B. Wang, X. Zhao, H. Zuo, **Y. Song**, J. Han, P. Childs, and L. Chen. [From Analogy to Innovation: A Creative Conceptual Design Approach Leveraging LLMs](https://www.sciencedirect.com/science/article/pii/S1474034625003209). *Advanced Engineering Informatics*, 67, 103427, 2025.
 
+# 🧑‍⚖️ Academic Service
+
+- **Reviewer (Conferences):** ACM CHI 2027, ACM IUI 2026
+- **Reviewer (Journals):** *Expert Systems with Applications* (ESWA)
+- **Student Volunteer:** ACM Creativity & Cognition (C&C) 2026
+
 # 🎖 Honors and Awards
 - 2026.01 Mogujie Design & Fashion Scholarship (蘑菇街设计时尚基金学生奖学金), Zhejiang University
 - 2025.12, 2024.12 Outstanding Graduate Student, Zhejiang University
